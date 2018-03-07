@@ -1,0 +1,10 @@
+val=n%3;
+if(val==0){
+printf("Divisible by 3");
+}
+else if(val==1){
+printf("Reminder 2");
+}
+else if(val==2){
+printf("Reminder 1");
+}
