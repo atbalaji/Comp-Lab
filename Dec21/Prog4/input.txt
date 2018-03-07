@@ -1,0 +1,12 @@
+int abc,_def,found_text,123,123abc,abc1234;
+abc=1234;
+a=b*c;
+float new_num=123.89E-1034;
+int oldnum=123.0	sjdj,gh
+
+a=b&c;
+()
+
+if(a>=b)
+if(b<=c)
+if(a<>b)

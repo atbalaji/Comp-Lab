@@ -1,0 +1,14 @@
+if(a>10)
+{
+if(b>10)
+{
+	cout<<"Hai";
+}
+}
+else if(a<10)
+{
+if(b<10)
+{
+	cout<<"Hello";
+}
+}
